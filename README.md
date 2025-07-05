@@ -8,6 +8,14 @@ The project is organized for easy navigation, consistent naming, and reproducibi
 
 ---
 
+## 📂 Quick Navigation
+
+- 📚 [Solutions Index](solutions/README.md) — Browse all problem solutions  
+- ⚙️ [Setup & Usage](#-getting-started) — How to install and run tests  
+- 📝 [Directory Structure](#-directory-structure) — Learn about structure and features
+
+---
+
 ## 📁 Directory Structure
 
 ```
