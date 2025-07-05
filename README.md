@@ -18,6 +18,8 @@ leetcode-solutions/
 ├── tests/                   # pytest test cases
 │   ├── test_problem_XXXX_name_of_problem.py
 │   └── ...
+├── utils/
+│   └── tree_utils.py        # Binary tree helpers
 ├── requirements.txt         # Dependencies (pytest, etc.)
 ├── pytest.ini               # Pytest config file
 └── README.md                # Project documentation
