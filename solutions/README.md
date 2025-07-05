@@ -7,3 +7,4 @@
 | 3304 | Find the K-th Character in String Game I | [📄 View](problem_3304_find_the_kth_character_in_string_game_i.py) | [🧪 Test](../tests/test_problem_3304_find_the_kth_character_in_string_game_i.py) |
 | 3307 | Find the K-th Character in String Game II | [📄 View](problem_3307_find_the_kth_character_in_string_game_ii.py) | [🧪 Test](../tests/test_problem_3307_find_the_kth_character_in_string_game_ii.py) |
 | 3330 | Find the Original Typed String I | [📄 View](problem_3330_find_the_original_typed_string_i.py) | [🧪 Test](../tests/test_problem_3330_find_the_original_typed_string_i.py) |
+| 3375 | Minimum Operations to Make Array Values Equal to K | [📄 View](problem_3375_minimum_operations_to_mark_array_values_equal_to_k.py) | [🧪 Test](../tests/test_problem_3375_minimum_operations_to_make_array_values_equal_to_k.py) |
