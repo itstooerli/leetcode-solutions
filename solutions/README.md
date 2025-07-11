@@ -3,6 +3,7 @@
 | #   | Title                          | Solution | Tests                             |
 |-----|--------------------------------|----------|------------------------------------|
 | 1 | Two Sum | [📄 View](problem_0001_two_sum.py) | [🧪 Test](../tests/test_problem_0001_two_sum.py) |
+| 36 | Valid Sudoku | [📄 View](problem_0036_valid_sudoku.py) | [🧪 Test](../tests/test_problem_0036_valid%20sudoku.py) |
 | 79 | Word Search | [📄 View](problem_0079_word_search.py) | [🧪 Test](../tests/test_problem_0079_word_search.py) |
 | 333 | Largest BST Subtree | [📄 View](problem_0333_largest_bst_subtree.py) | [🧪 Test](../tests/test_problem_0333_largest_bst_subtree.py) |
 | 1353 | Maximum Number of Events That Can Be Attended | [📄 View](problem_1353_maximum_number_of_events_that_can_be_attended.py) | [🧪 Test](../tests/test_problem_1353_maximum_number_of_events_that_can_be_attended.py) |
