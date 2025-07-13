@@ -10,6 +10,7 @@
 | 1394 | Find Lucky Integer in an Array | [📄 View](problem_1394_find_lucky_integer_in_an_array.py) | [🧪 Test](../tests/test_problem_1394_find_lucky_integer_in_an_array.py) |
 | 1751 | Maximum Number of Events That Can Be Attended II | [📄 View](problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) | [🧪 Test](../tests/test_problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) |
 | 2402 | Meeting Rooms III | [📄 View](problem_2402_meeting_rooms_iii.py) | [🧪 Test](../tests/test_problem_2402_meeting_rooms_iii.py) |
+| 2410 | Maximum Matching of Players with Trainers | [📄 View](problem_2410_maximum_matching_of_players_with_trainers.py) | [🧪 Test](../tests/test_problem_2410_maximum_matching_of_players_with_trainers.py) |
 | 3304 | Find the K-th Character in String Game I | [📄 View](problem_3304_find_the_kth_character_in_string_game_i.py) | [🧪 Test](../tests/test_problem_3304_find_the_kth_character_in_string_game_i.py) |
 | 3307 | Find the K-th Character in String Game II | [📄 View](problem_3307_find_the_kth_character_in_string_game_ii.py) | [🧪 Test](../tests/test_problem_3307_find_the_kth_character_in_string_game_ii.py) |
 | 3330 | Find the Original Typed String I | [📄 View](problem_3330_find_the_original_typed_string_i.py) | [🧪 Test](../tests/test_problem_3330_find_the_original_typed_string_i.py) |
