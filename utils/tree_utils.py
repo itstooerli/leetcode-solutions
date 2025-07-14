@@ -31,3 +31,17 @@ def trees_equal(t1: Optional[TreeNode], t2: Optional[TreeNode]) -> bool:
     if t1 and t2 and t1.val == t2.val:
         return trees_equal(t1.left, t2.left) and trees_equal(t1.right, t2.right)
     return False
+
+def find_node(root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+    if not root:
+        return None
+    if root.val == val:
+        return root
+    
+    # Search left subtree
+    left = find_node(root.left, val)
+    if left:
+        return left
+
+    # Search right subtree
+    return find_node(root.right, val)
