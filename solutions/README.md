@@ -14,6 +14,7 @@
 | 2410 | Maximum Matching of Players with Trainers | [📄 View](problem_2410_maximum_matching_of_players_with_trainers.py) | [🧪 Test](../tests/test_problem_2410_maximum_matching_of_players_with_trainers.py) |
 | 3304 | Find the K-th Character in String Game I | [📄 View](problem_3304_find_the_kth_character_in_string_game_i.py) | [🧪 Test](../tests/test_problem_3304_find_the_kth_character_in_string_game_i.py) |
 | 3307 | Find the K-th Character in String Game II | [📄 View](problem_3307_find_the_kth_character_in_string_game_ii.py) | [🧪 Test](../tests/test_problem_3307_find_the_kth_character_in_string_game_ii.py) |
+| 3336 | Valid Word | [📄 View](problem_3136_valid_word.py) | [🧪 Test](../tests/test_problem_3136_valid_word.py) |
 | 3330 | Find the Original Typed String I | [📄 View](problem_3330_find_the_original_typed_string_i.py) | [🧪 Test](../tests/test_problem_3330_find_the_original_typed_string_i.py) |
 | 3440 | Reschedule Meetings for Maximum Free Time II | [📄 View](problem_3340_reschedule_meetings_for_maximum_free_time_ii.py) | [🧪 Test](../tests/test_problem_3340_reschedule_meetings_for_maximum_free_time_ii.py) |
 | 3375 | Minimum Operations to Make Array Values Equal to K | [📄 View](problem_3375_minimum_operations_to_mark_array_values_equal_to_k.py) | [🧪 Test](../tests/test_problem_3375_minimum_operations_to_make_array_values_equal_to_k.py) |
