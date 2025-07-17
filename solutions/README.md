@@ -13,6 +13,7 @@
 | 1751 | Maximum Number of Events That Can Be Attended II | [📄 View](problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) | [🧪 Test](../tests/test_problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) |
 | 2402 | Meeting Rooms III | [📄 View](problem_2402_meeting_rooms_iii.py) | [🧪 Test](../tests/test_problem_2402_meeting_rooms_iii.py) |
 | 2410 | Maximum Matching of Players with Trainers | [📄 View](problem_2410_maximum_matching_of_players_with_trainers.py) | [🧪 Test](../tests/test_problem_2410_maximum_matching_of_players_with_trainers.py) |
+| 3201 | Find the Maximum Length of Valid Subsequence | [📄 View](problem_3201_find_maximum_length_of_valid_subsequence_i.py) | [🧪 Test](../tests/test_problem_3201_find_maximum_length_of_valid_subsequence.py) |
 | 3304 | Find the K-th Character in String Game I | [📄 View](problem_3304_find_the_kth_character_in_string_game_i.py) | [🧪 Test](../tests/test_problem_3304_find_the_kth_character_in_string_game_i.py) |
 | 3307 | Find the K-th Character in String Game II | [📄 View](problem_3307_find_the_kth_character_in_string_game_ii.py) | [🧪 Test](../tests/test_problem_3307_find_the_kth_character_in_string_game_ii.py) |
 | 3336 | Valid Word | [📄 View](problem_3136_valid_word.py) | [🧪 Test](../tests/test_problem_3136_valid_word.py) |
