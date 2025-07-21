@@ -11,6 +11,7 @@
 | 1353 | Maximum Number of Events That Can Be Attended | [📄 View](problem_1353_maximum_number_of_events_that_can_be_attended.py) | [🧪 Test](../tests/test_problem_1353_maximum_number_of_events_that_can_be_attended.py) |
 | 1394 | Find Lucky Integer in an Array | [📄 View](problem_1394_find_lucky_integer_in_an_array.py) | [🧪 Test](../tests/test_problem_1394_find_lucky_integer_in_an_array.py) |
 | 1751 | Maximum Number of Events That Can Be Attended II | [📄 View](problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) | [🧪 Test](../tests/test_problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) |
+| 1945 | Delete Duplicate Folders in System | [📄 View](problem_1948_delete_duplicate_folders_in_system.py) | [🧪 Test](../tests/test_problem_1948_delete_duplicate_folders_in_system.py) |
 | 2402 | Meeting Rooms III | [📄 View](problem_2402_meeting_rooms_iii.py) | [🧪 Test](../tests/test_problem_2402_meeting_rooms_iii.py) |
 | 2410 | Maximum Matching of Players with Trainers | [📄 View](problem_2410_maximum_matching_of_players_with_trainers.py) | [🧪 Test](../tests/test_problem_2410_maximum_matching_of_players_with_trainers.py) |
 | 3201 | Find the Maximum Length of Valid Subsequence | [📄 View](problem_3201_find_maximum_length_of_valid_subsequence_i.py) | [🧪 Test](../tests/test_problem_3201_find_maximum_length_of_valid_subsequence.py) |
