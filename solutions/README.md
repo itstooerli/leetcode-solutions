@@ -10,6 +10,7 @@
 | 425 | Word Squares | [📄 View](problem_0425_word_squares.py) | [🧪 Test](../tests/test_problem_0425_word_squares.py) |
 | 1353 | Maximum Number of Events That Can Be Attended | [📄 View](problem_1353_maximum_number_of_events_that_can_be_attended.py) | [🧪 Test](../tests/test_problem_1353_maximum_number_of_events_that_can_be_attended.py) |
 | 1394 | Find Lucky Integer in an Array | [📄 View](problem_1394_find_lucky_integer_in_an_array.py) | [🧪 Test](../tests/test_problem_1394_find_lucky_integer_in_an_array.py) |
+| 1695 | Maximum Erasure Value | [📄 View](problem_1695_maximum_erasure_value.py) | [🧪 Test](../tests/test_problem_1695_maximum_erasure_value.py) |
 | 1751 | Maximum Number of Events That Can Be Attended II | [📄 View](problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) | [🧪 Test](../tests/test_problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) |
 | 1945 | Delete Duplicate Folders in System | [📄 View](problem_1948_delete_duplicate_folders_in_system.py) | [🧪 Test](../tests/test_problem_1948_delete_duplicate_folders_in_system.py) |
 | 1945 | Delete Characters to Make Fancy String | [📄 View](problem_1957_delete_characters_to_make_fancy_string.py) | [🧪 Test](../tests/test_problem_1957_delete_characters_to_make_fancy_string.py) |
