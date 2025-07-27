@@ -8,6 +8,7 @@
 | 285 | Inorder Successor in BST | [📄 View](problem_0285_inorder_successor_in_bst.py) | [🧪 Test](../tests/test_problem_0285_inorder_successor_in_bst.py) |
 | 333 | Largest BST Subtree | [📄 View](problem_0333_largest_bst_subtree.py) | [🧪 Test](../tests/test_problem_0333_largest_bst_subtree.py) |
 | 425 | Word Squares | [📄 View](problem_0425_word_squares.py) | [🧪 Test](../tests/test_problem_0425_word_squares.py) |
+| 425 | Word Abbreviation | [📄 View](problem_0527_word_abbreviation.py) | [🧪 Test](../tests/test_problem_0527_word_abbreviation.py) |
 | 1290 | Convert Binary Number in a Linked List to Integer | [📄 View](problem_1290_convert_binary_number_in_a_linked_list_to_integer.py) | [🧪 Test](../tests/test_problem_1290_convert_binary_number_in_a_linked_list_to_integer.py) |
 | 1353 | Maximum Number of Events That Can Be Attended | [📄 View](problem_1353_maximum_number_of_events_that_can_be_attended.py) | [🧪 Test](../tests/test_problem_1353_maximum_number_of_events_that_can_be_attended.py) |
 | 1394 | Find Lucky Integer in an Array | [📄 View](problem_1394_find_lucky_integer_in_an_array.py) | [🧪 Test](../tests/test_problem_1394_find_lucky_integer_in_an_array.py) |
