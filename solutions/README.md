@@ -19,8 +19,9 @@
 | 2210 | Count Hills and Valleys in an Array | [📄 View](problem_2210_count_hills_and_valley_in_an_array.py) | [🧪 Test](../tests/test_problem_2210_count_hills_and_valley_in_an_array.py) |
 | 2402 | Meeting Rooms III | [📄 View](problem_2402_meeting_rooms_iii.py) | [🧪 Test](../tests/test_problem_2402_meeting_rooms_iii.py) |
 | 2410 | Maximum Matching of Players with Trainers | [📄 View](problem_2410_maximum_matching_of_players_with_trainers.py) | [🧪 Test](../tests/test_problem_2410_maximum_matching_of_players_with_trainers.py) |
+| 2411 | Smallest Subarrays With Maximum Bitwise OR | [📄 View](problem_2411_smallest_subarrays_with_maximum_bitwise_or.py) | [🧪 Test](../tests/test_problem_2411_smallest_subarrays_with_maximum_bitwise_or.py) |
 | 3201 | Find the Maximum Length of Valid Subsequence | [📄 View](problem_3201_find_maximum_length_of_valid_subsequence_i.py) | [🧪 Test](../tests/test_problem_3201_find_maximum_length_of_valid_subsequence.py) |
-| 3201 | Find the Maximum Length of Valid Subsequence II | [📄 View](problem_3202_find_maximum_length_of_valid_subsequence_ii.py) | [🧪 Test](../tests/test_problem_3202_find_maximum_length_of_valid_subsequence_ii.py) |
+| 3202 | Find the Maximum Length of Valid Subsequence II | [📄 View](problem_3202_find_maximum_length_of_valid_subsequence_ii.py) | [🧪 Test](../tests/test_problem_3202_find_maximum_length_of_valid_subsequence_ii.py) |
 | 3304 | Find the K-th Character in String Game I | [📄 View](problem_3304_find_the_kth_character_in_string_game_i.py) | [🧪 Test](../tests/test_problem_3304_find_the_kth_character_in_string_game_i.py) |
 | 3307 | Find the K-th Character in String Game II | [📄 View](problem_3307_find_the_kth_character_in_string_game_ii.py) | [🧪 Test](../tests/test_problem_3307_find_the_kth_character_in_string_game_ii.py) |
 | 3336 | Valid Word | [📄 View](problem_3136_valid_word.py) | [🧪 Test](../tests/test_problem_3136_valid_word.py) |
