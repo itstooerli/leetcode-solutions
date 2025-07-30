@@ -1,32 +1,33 @@
 # 🧩 LeetCode Solutions Index
 
-| #   | Title                          | Solution | Tests                             |
-|-----|--------------------------------|----------|------------------------------------|
-| 1 | Two Sum | [📄 View](problem_0001_two_sum.py) | [🧪 Test](../tests/test_problem_0001_two_sum.py) |
-| 36 | Valid Sudoku | [📄 View](problem_0036_valid_sudoku.py) | [🧪 Test](../tests/test_problem_0036_valid%20sudoku.py) |
-| 79 | Word Search | [📄 View](problem_0079_word_search.py) | [🧪 Test](../tests/test_problem_0079_word_search.py) |
-| 285 | Inorder Successor in BST | [📄 View](problem_0285_inorder_successor_in_bst.py) | [🧪 Test](../tests/test_problem_0285_inorder_successor_in_bst.py) |
-| 333 | Largest BST Subtree | [📄 View](problem_0333_largest_bst_subtree.py) | [🧪 Test](../tests/test_problem_0333_largest_bst_subtree.py) |
-| 425 | Word Squares | [📄 View](problem_0425_word_squares.py) | [🧪 Test](../tests/test_problem_0425_word_squares.py) |
-| 425 | Word Abbreviation | [📄 View](problem_0527_word_abbreviation.py) | [🧪 Test](../tests/test_problem_0527_word_abbreviation.py) |
-| 1290 | Convert Binary Number in a Linked List to Integer | [📄 View](problem_1290_convert_binary_number_in_a_linked_list_to_integer.py) | [🧪 Test](../tests/test_problem_1290_convert_binary_number_in_a_linked_list_to_integer.py) |
-| 1353 | Maximum Number of Events That Can Be Attended | [📄 View](problem_1353_maximum_number_of_events_that_can_be_attended.py) | [🧪 Test](../tests/test_problem_1353_maximum_number_of_events_that_can_be_attended.py) |
-| 1394 | Find Lucky Integer in an Array | [📄 View](problem_1394_find_lucky_integer_in_an_array.py) | [🧪 Test](../tests/test_problem_1394_find_lucky_integer_in_an_array.py) |
-| 1695 | Maximum Erasure Value | [📄 View](problem_1695_maximum_erasure_value.py) | [🧪 Test](../tests/test_problem_1695_maximum_erasure_value.py) |
-| 1751 | Maximum Number of Events That Can Be Attended II | [📄 View](problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) | [🧪 Test](../tests/test_problem_1751_maximum_number_of_events_that_can_be_attended_ii.py) |
-| 1948 | Delete Duplicate Folders in System | [📄 View](problem_1948_delete_duplicate_folders_in_system.py) | [🧪 Test](../tests/test_problem_1948_delete_duplicate_folders_in_system.py) |
-| 1957 | Delete Characters to Make Fancy String | [📄 View](problem_1957_delete_characters_to_make_fancy_string.py) | [🧪 Test](../tests/test_problem_1957_delete_characters_to_make_fancy_string.py) |
-| 2210 | Count Hills and Valleys in an Array | [📄 View](problem_2210_count_hills_and_valley_in_an_array.py) | [🧪 Test](../tests/test_problem_2210_count_hills_and_valley_in_an_array.py) |
-| 2402 | Meeting Rooms III | [📄 View](problem_2402_meeting_rooms_iii.py) | [🧪 Test](../tests/test_problem_2402_meeting_rooms_iii.py) |
-| 2410 | Maximum Matching of Players with Trainers | [📄 View](problem_2410_maximum_matching_of_players_with_trainers.py) | [🧪 Test](../tests/test_problem_2410_maximum_matching_of_players_with_trainers.py) |
-| 2411 | Smallest Subarrays With Maximum Bitwise OR | [📄 View](problem_2411_smallest_subarrays_with_maximum_bitwise_or.py) | [🧪 Test](../tests/test_problem_2411_smallest_subarrays_with_maximum_bitwise_or.py) |
-| 3201 | Find the Maximum Length of Valid Subsequence | [📄 View](problem_3201_find_maximum_length_of_valid_subsequence_i.py) | [🧪 Test](../tests/test_problem_3201_find_maximum_length_of_valid_subsequence.py) |
-| 3202 | Find the Maximum Length of Valid Subsequence II | [📄 View](problem_3202_find_maximum_length_of_valid_subsequence_ii.py) | [🧪 Test](../tests/test_problem_3202_find_maximum_length_of_valid_subsequence_ii.py) |
-| 3304 | Find the K-th Character in String Game I | [📄 View](problem_3304_find_the_kth_character_in_string_game_i.py) | [🧪 Test](../tests/test_problem_3304_find_the_kth_character_in_string_game_i.py) |
-| 3307 | Find the K-th Character in String Game II | [📄 View](problem_3307_find_the_kth_character_in_string_game_ii.py) | [🧪 Test](../tests/test_problem_3307_find_the_kth_character_in_string_game_ii.py) |
-| 3336 | Valid Word | [📄 View](problem_3136_valid_word.py) | [🧪 Test](../tests/test_problem_3136_valid_word.py) |
-| 3330 | Find the Original Typed String I | [📄 View](problem_3330_find_the_original_typed_string_i.py) | [🧪 Test](../tests/test_problem_3330_find_the_original_typed_string_i.py) |
-| 3440 | Reschedule Meetings for Maximum Free Time II | [📄 View](problem_3340_reschedule_meetings_for_maximum_free_time_ii.py) | [🧪 Test](../tests/test_problem_3340_reschedule_meetings_for_maximum_free_time_ii.py) |
-| 3375 | Minimum Operations to Make Array Values Equal to K | [📄 View](problem_3375_minimum_operations_to_mark_array_values_equal_to_k.py) | [🧪 Test](../tests/test_problem_3375_minimum_operations_to_make_array_values_equal_to_k.py) |
+| #    | Title                                              | Difficulty | Solution                                                                     | Tests                                                                                      |
+| ---- | -------------------------------------------------- | ---------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 1    | Two Sum                                            | 🟢 Easy     | [📄 View](problem_0001_two_sum.py)                                            | [🧪 Test](../tests/test_problem_0001_two_sum.py)                                            |
+| 36   | Valid Sudoku                                       | 🟡 Medium   | [📄 View](problem_0036_valid_sudoku.py)                                       | [🧪 Test](../tests/test_problem_0036_valid%20sudoku.py)                                     |
+| 79   | Word Search                                        | 🟡 Medium   | [📄 View](problem_0079_word_search.py)                                        | [🧪 Test](../tests/test_problem_0079_word_search.py)                                        |
+| 285  | Inorder Successor in BST                           | 🟡 Medium   | [📄 View](problem_0285_inorder_successor_in_bst.py)                           | [🧪 Test](../tests/test_problem_0285_inorder_successor_in_bst.py)                           |
+| 333  | Largest BST Subtree                                | 🟡 Medium   | [📄 View](problem_0333_largest_bst_subtree.py)                                | [🧪 Test](../tests/test_problem_0333_largest_bst_subtree.py)                                |
+| 425  | Word Squares                                       | 🔴 Hard     | [📄 View](problem_0425_word_squares.py)                                       | [🧪 Test](../tests/test_problem_0425_word_squares.py)                                       |
+| 527  | Word Abbreviation                                  | 🔴 Hard     | [📄 View](problem_0527_word_abbreviation.py)                                  | [🧪 Test](../tests/test_problem_0527_word_abbreviation.py)                                  |
+| 1290 | Convert Binary Number in a Linked List to Integer  | 🟢 Easy     | [📄 View](problem_1290_convert_binary_number_in_a_linked_list_to_integer.py)  | [🧪 Test](../tests/test_problem_1290_convert_binary_number_in_a_linked_list_to_integer.py)  |
+| 1353 | Maximum Number of Events That Can Be Attended      | 🟡 Medium   | [📄 View](problem_1353_maximum_number_of_events_that_can_be_attended.py)      | [🧪 Test](../tests/test_problem_1353_maximum_number_of_events_that_can_be_attended.py)      |
+| 1394 | Find Lucky Integer in an Array                     | 🟢 Easy     | [📄 View](problem_1394_find_lucky_integer_in_an_array.py)                     | [🧪 Test](../tests/test_problem_1394_find_lucky_integer_in_an_array.py)                     |
+| 1695 | Maximum Erasure Value                              | 🟡 Medium   | [📄 View](problem_1695_maximum_erasure_value.py)                              | [🧪 Test](../tests/test_problem_1695_maximum_erasure_value.py)                              |
+| 1751 | Maximum Number of Events That Can Be Attended II   | 🔴 Hard     | [📄 View](problem_1751_maximum_number_of_events_that_can_be_attended_ii.py)   | [🧪 Test](../tests/test_problem_1751_maximum_number_of_events_that_can_be_attended_ii.py)   |
+| 1948 | Delete Duplicate Folders in System                 | 🔴 Hard     | [📄 View](problem_1948_delete_duplicate_folders_in_system.py)                 | [🧪 Test](../tests/test_problem_1948_delete_duplicate_folders_in_system.py)                 |
+| 1957 | Delete Characters to Make Fancy String             | 🟢 Easy     | [📄 View](problem_1957_delete_characters_to_make_fancy_string.py)             | [🧪 Test](../tests/test_problem_1957_delete_characters_to_make_fancy_string.py)             |
+| 2210 | Count Hills and Valleys in an Array                | 🟢 Easy     | [📄 View](problem_2210_count_hills_and_valley_in_an_array.py)                 | [🧪 Test](../tests/test_problem_2210_count_hills_and_valley_in_an_array.py)                 |
+| 2402 | Meeting Rooms III                                  | 🔴 Hard     | [📄 View](problem_2402_meeting_rooms_iii.py)                                  | [🧪 Test](../tests/test_problem_2402_meeting_rooms_iii.py)                                  |
+| 2410 | Maximum Matching of Players with Trainers          | 🟡 Medium   | [📄 View](problem_2410_maximum_matching_of_players_with_trainers.py)          | [🧪 Test](../tests/test_problem_2410_maximum_matching_of_players_with_trainers.py)          |
+| 2411 | Smallest Subarrays With Maximum Bitwise OR         | 🟡 Medium   | [📄 View](problem_2411_smallest_subarrays_with_maximum_bitwise_or.py)         | [🧪 Test](../tests/test_problem_2411_smallest_subarrays_with_maximum_bitwise_or.py)         |
+| 2419 | Longest Subarray with Maximum Bitwise AND          | 🟡 Medium   | [📄 View](problem_2419_longest_subarray_with_maximum_bitwise_and.py)          | [🧪 Test](../tests/test_problem_2419_longest_subarray_with_maximum_bitwise_and.py)          |
+| 3136 | Valid Word                                         | 🟢 Easy     | [📄 View](problem_3136_valid_word.py)                                         | [🧪 Test](../tests/test_problem_3136_valid_word.py)                                         |
+| 3201 | Find the Maximum Length of Valid Subsequence       | 🟡 Medium   | [📄 View](problem_3201_find_maximum_length_of_valid_subsequence_i.py)         | [🧪 Test](../tests/test_problem_3201_find_maximum_length_of_valid_subsequence.py)           |
+| 3202 | Find the Maximum Length of Valid Subsequence II    | 🟡 Medium   | [📄 View](problem_3202_find_maximum_length_of_valid_subsequence_ii.py)        | [🧪 Test](../tests/test_problem_3202_find_maximum_length_of_valid_subsequence_ii.py)        |
+| 3304 | Find the K-th Character in String Game I           | 🟢 Easy     | [📄 View](problem_3304_find_the_kth_character_in_string_game_i.py)            | [🧪 Test](../tests/test_problem_3304_find_the_kth_character_in_string_game_i.py)            |
+| 3307 | Find the K-th Character in String Game II          | 🔴 Hard     | [📄 View](problem_3307_find_the_kth_character_in_string_game_ii.py)           | [🧪 Test](../tests/test_problem_3307_find_the_kth_character_in_string_game_ii.py)           |
+| 3330 | Find the Original Typed String I                   | 🟢 Easy     | [📄 View](problem_3330_find_the_original_typed_string_i.py)                   | [🧪 Test](../tests/test_problem_3330_find_the_original_typed_string_i.py)                   |
+| 3340 | Reschedule Meetings for Maximum Free Time II       | 🟡 Medium   | [📄 View](problem_3340_reschedule_meetings_for_maximum_free_time_ii.py)       | [🧪 Test](../tests/test_problem_3340_reschedule_meetings_for_maximum_free_time_ii.py)       |
+| 3375 | Minimum Operations to Make Array Values Equal to K | 🟢 Easy     | [📄 View](problem_3375_minimum_operations_to_mark_array_values_equal_to_k.py) | [🧪 Test](../tests/test_problem_3375_minimum_operations_to_make_array_values_equal_to_k.py) |
 
 Author: Eric Li
