@@ -30,5 +30,6 @@
 | 3330 | Find the Original Typed String I                   | 🟢 Easy     | [📄 View](problem_3330_find_the_original_typed_string_i.py)                   | [🧪 Test](../tests/test_problem_3330_find_the_original_typed_string_i.py)                   |
 | 3340 | Reschedule Meetings for Maximum Free Time II       | 🟡 Medium   | [📄 View](problem_3340_reschedule_meetings_for_maximum_free_time_ii.py)       | [🧪 Test](../tests/test_problem_3340_reschedule_meetings_for_maximum_free_time_ii.py)       |
 | 3375 | Minimum Operations to Make Array Values Equal to K | 🟢 Easy     | [📄 View](problem_3375_minimum_operations_to_mark_array_values_equal_to_k.py) | [🧪 Test](../tests/test_problem_3375_minimum_operations_to_make_array_values_equal_to_k.py) |
+| 3487 | Maximum Unique Subarray Sum After Deletion         | 🟢 Easy     | [📄 View](problem_3487_maximum_unique_subarray_sum_after_deletion.py)         | [🧪 Test](../tests/test_problem_3487_maximum_unique_subarray_sum_after_deletion.py)         |
 
 Author: Eric Li
