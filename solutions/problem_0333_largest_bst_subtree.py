@@ -15,6 +15,7 @@ from utils.tree_utils import TreeNode
 
 class Solution:
     def largestBSTSubtree(self, root: Optional[TreeNode]) -> int:
+        """Return the size of the largest binary search tree subtree."""
         def isValidBST(root):
             isValid = True
             

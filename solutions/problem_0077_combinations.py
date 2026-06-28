@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
+        """Return all combinations of k elements from 1 to n."""
         if n < 1:
             return []
 

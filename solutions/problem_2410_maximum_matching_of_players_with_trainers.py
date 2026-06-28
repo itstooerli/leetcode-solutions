@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def matchPlayersAndTrainers(self, players: List[int], trainers: List[int]) -> int:
+        """Return the maximum number of players that can be matched with trainers."""
         # Seems like greedy should work here
         players.sort(key = lambda x: -x)
         trainers.sort(key = lambda x: -x)

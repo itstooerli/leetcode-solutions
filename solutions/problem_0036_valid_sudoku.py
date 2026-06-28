@@ -8,6 +8,7 @@ from collections import defaultdict
 
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
+        """Determine if a partially filled sudoku board is valid."""
         rows = defaultdict(set)
         cols = defaultdict(set)
         boxs = defaultdict(set)

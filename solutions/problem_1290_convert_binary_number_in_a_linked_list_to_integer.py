@@ -14,6 +14,7 @@ from utils.linked_list_utils import SinglyLinkedListNode as ListNode
 
 class Solution:
     def getDecimalValue(self, head: Optional[ListNode]) -> int:
+        """Return the decimal value of a binary number represented by a linked list."""
         output = 0
         currNode = head
         while currNode:

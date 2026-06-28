@@ -5,6 +5,7 @@ Solution by Eric Li
 
 class Solution:
     def isValid(self, word: str) -> bool:
+        """Determine if a word is valid based on length and character constraints."""
         vowels = set(['a','e','i','o','u'])
         digits = set(['0','1','2','3','4','5','6','7','8','9'])
 

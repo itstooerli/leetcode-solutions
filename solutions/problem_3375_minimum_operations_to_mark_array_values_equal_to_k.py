@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def minOperations(self, nums: List[int], k: int) -> int:
+        """Return the minimum operations needed to make all array values equal to k."""
         sorted_nums = sorted(nums)
         prev_val = None
         ans = 0

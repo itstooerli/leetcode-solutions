@@ -6,6 +6,7 @@ Solution by Eric Li
 from math import floor, log2
 class Solution:
     def kthCharacter(self, k: int) -> str:
+        """Return the k-th character in the string game sequence."""
         #if k == 1:
         #    return 'a'
 

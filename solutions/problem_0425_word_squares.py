@@ -8,6 +8,7 @@ from collections import defaultdict
 
 class Solution:
     def wordSquares(self, words: List[str]) -> List[List[str]]:
+        """Return all valid word squares that can be built from a list of words."""
         # Compile prefixes
         dictionary = defaultdict(set)
         for word in words:

@@ -5,6 +5,7 @@ Solution by Eric Li
 
 class Solution:
     def possibleStringCount(self, word: str) -> int:
+        """Return the number of possible original strings that could produce word after typing errors."""
         output = 1
         for idx in range(1, len(word)):
             if word[idx] == word[idx - 1]:

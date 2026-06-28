@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def maxAscendingSum(self, nums: List[int]) -> int:
+        """Return the maximum sum of an ascending subarray."""
         maxSum = 0
         currSum = 0
         for idx in range(len(nums)):

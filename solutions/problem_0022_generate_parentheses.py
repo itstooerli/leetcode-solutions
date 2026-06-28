@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
+        """Generate all combinations of well-formed parentheses with n pairs."""
         stack = [("", n, 0)] # currString, unopened, unclosed
         result = []
         while stack:

@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
+        """Return starting station index to complete a circular tour, or -1 if impossible."""
         totalSurplus = 0
         runningGas = 0
         result = -1

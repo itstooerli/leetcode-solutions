@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
+        """Determine if a word exists in a 2D grid by moving in four directions."""
         def backtrack(visited=set(), wordIdx=0, row=0, col=0):
             if (row, col) in visited:
                 return False

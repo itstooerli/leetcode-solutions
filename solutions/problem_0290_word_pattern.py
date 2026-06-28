@@ -5,6 +5,7 @@ Solution by Eric Li
 
 class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
+        """Determine if a word pattern matches a given string."""
         words = s.split()
         if len(pattern) != len(words):
             return False

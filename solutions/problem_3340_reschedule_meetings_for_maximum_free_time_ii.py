@@ -1,5 +1,5 @@
 """
-LeetCode Problem 3440. Reschedule Meetings for Maximum Free Time II
+LeetCode Problem 3340: Reschedule Meetings for Maximum Free Time II
 Solution by Eric Li
 """
 
@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def maxFreeTime(self, eventTime: int, startTime: List[int], endTime: List[int]) -> int:
+        """Return the maximum free time after optimally rescheduling meetings."""
         initialFreeTime = []
         for idx in range(len(startTime)):
             if idx == 0 and startTime[idx] > 0:

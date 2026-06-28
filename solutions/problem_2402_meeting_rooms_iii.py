@@ -8,6 +8,7 @@ import heapq
 
 class Solution:
     def mostBooked(self, n: int, meetings: List[List[int]]) -> int:
+        """Return the room number that was booked the most."""
         # Sort by start time
         meetings.sort()
     

@@ -8,6 +8,7 @@ import heapq
 
 class Solution:
     def maxEvents(self, events: List[List[int]]) -> int:
+        """Return the maximum number of events that can be attended."""
         # Maximize events by sorting by start time with end time as tiebreaker
         eventsByStart = sorted(events, key = lambda x : (x[0], x[1]))
         maxDay = max(event[1] for event in events)

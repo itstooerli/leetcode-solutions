@@ -7,6 +7,7 @@ from collections import Counter
 
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        """Determine if ransomNote can be constructed from letters in magazine."""
         magCounter = Counter(magazine)
         noteCounter = Counter(ransomNote)
         for key in noteCounter:

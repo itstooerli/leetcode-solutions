@@ -8,6 +8,7 @@ from typing import List
 
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
+        """Return all possible letter combinations that a phone number could represent."""
         if not digits:
             return []
 

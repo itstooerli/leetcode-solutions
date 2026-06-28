@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        """Return all unique combinations of candidates that sum to target."""
         stack = [([], 0, 0)]
         result = []
         while stack:

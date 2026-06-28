@@ -8,6 +8,7 @@ from bisect import bisect_left
 
 class Solution:
     def deleteDuplicateFolder(self, paths: List[List[str]]) -> List[List[str]]:
+        """Return a list of folders remaining after deleting duplicate folder structures."""
         class CustomNode:
             def __init__(self, value, idx):
                 self.value = value

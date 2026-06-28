@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def countHillValley(self, nums: List[int]) -> int:
+        """Count the number of hills and valleys in the array."""
         numHillOrValley = 0
         prevPtr = 0
         currPtr = 1

@@ -7,6 +7,7 @@ from typing import List
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
+        """Return indices of the two numbers that add up to target."""
         complements = {}
         
         for idx, val in enumerate(nums):

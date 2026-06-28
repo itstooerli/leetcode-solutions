@@ -1,5 +1,5 @@
 """
-LeetCode Problem 3375: Minimum Operations to Make Array Values Equal to K
+LeetCode Problem 3487: Maximum Unique Subarray Sum After Deletion
 Solution by Eric Li
 """
 

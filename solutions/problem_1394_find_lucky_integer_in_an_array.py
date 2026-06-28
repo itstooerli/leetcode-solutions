@@ -8,6 +8,7 @@ from collections import defaultdict
 
 class Solution:
     def findLucky(self, arr: List[int]) -> int:
+        """Return the largest lucky integer in the array, or -1 if none exists."""
         # Count the frequency (could use Counter())
         dataDict = defaultdict(int)
         for val in arr:

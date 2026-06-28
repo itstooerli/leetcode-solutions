@@ -5,6 +5,7 @@ Solution by Eric Li
 
 class Solution:
     def makeFancyString(self, s: str) -> str:
+        """Remove consecutive duplicate characters that appear 3+ times."""
         output = ""
         prevLetter = ""
         counter = 0
